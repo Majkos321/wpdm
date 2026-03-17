@@ -12,14 +12,14 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../src/'))
+sys.path.insert(0, os.path.abspath('../src'))
 
 
 # -- Project information -----------------------------------------------------
 
 project = 'wpdm'
-copyright = '2024, Szymon Bobek'
-author = 'Szymon Bobek'
+copyright = '2024, Mikolaj'
+author = 'Mikolaj'
 
 
 # -- General configuration ---------------------------------------------------
