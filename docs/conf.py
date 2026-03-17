@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.abspath('../src'))
 # -- Project information -----------------------------------------------------
 
 project = 'wpdm'
-copyright = '2024, Mikolaj'
+copyright = '2024, Mmikolaj'
 author = 'Mikolaj'
 
 
